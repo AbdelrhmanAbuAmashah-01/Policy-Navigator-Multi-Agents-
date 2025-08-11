@@ -1,6 +1,5 @@
-# Policy Navigator Multi-Agent (PNA)
-
-A comprehensive AI-powered privacy policy navigation system that combines multiple specialized agents to provide intelligent insights on data privacy, security policies, and breach analysis.
+# 🛡️ Policy Navigator Multi-Agent (PNA)
+> A comprehensive AI-powered privacy policy navigation system that combines multiple specialized agents to provide intelligent insights on data privacy, security policies, and breach analysis.
 
 ## What Your Agent Does
 
